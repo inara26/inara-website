@@ -1,0 +1,7 @@
+# Source files: not part of the public site
+/Team/
+/INARA New.png
+/INARA New 2.png
+/_build/
+/.claude/
+__pycache__/

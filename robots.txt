@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Sitemap: https://inara26.github.io/inara-website/sitemap.xml
